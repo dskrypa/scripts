@@ -1,0 +1,1 @@
+c:\cygwin64\bin\bash --login /cygdrive/c/linux/home/user/scripts/switch_githubs.sh
